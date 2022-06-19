@@ -11,5 +11,3 @@ variable "image" {
   type    = list(any)
   default = ["ami-000", "ami-111", "ami-222"]
 }
-
-variable "input" {}
